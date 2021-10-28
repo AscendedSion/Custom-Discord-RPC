@@ -13,4 +13,4 @@ buttons : [{label : "Join Us" , url : "https://discord.gg/TTYaHnWFHf"},{label : 
 }
 })
 })
-client.login({ clientId : "835536064448823367" }).catch(console.error);
+client.login({ clientId : "appid" }).catch(console.error);
